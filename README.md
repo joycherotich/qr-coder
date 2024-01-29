@@ -32,7 +32,7 @@ Clone the repository:
 
 git clone (https://github.com/joycherotich/qr-coder)
 ## Navigate to the project directory:
-cd your-laravel-qr-scanner
+cd qrcode
 ## Install dependencies:
 composer install
 composer update
